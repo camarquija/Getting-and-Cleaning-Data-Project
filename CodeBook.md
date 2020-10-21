@@ -109,7 +109,7 @@ In this code book you will find all the information about the `run_analysis.R` s
   [39] "Time_Domain_Body_Gyroscope_Magnitude_Mean"                                
   [40] "Time_Domain_Body_Gyroscope_Magnitude_StandardDeviation"                   
   [41] "Time_Domain_Body_Gyroscope_Jerk_Magnitude_Mean"                           
-  [42] "Time_Domain_Body_Gyroscope_Jerk_Magnitude_StandardDeviation"
+  [42] "Time_Domain_Body_Gyroscope_Jerk_Magnitude_StandardDeviation"               
   [43] "Frequency_Domain_Body_Accelerometer_Mean_X_axis"                          
   [44] "Frequency_Domain_Body_Accelerometer_Mean_Y_axis"                          
   [45] "Frequency_Domain_Body_Accelerometer_Mean_Z_axis"                          
